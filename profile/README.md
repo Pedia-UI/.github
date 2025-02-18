@@ -1,18 +1,34 @@
 ![Pedia UI Dark Mode](https://github.com/Pedia-UI/Pedia-UI/blob/develop/packages/docs/src/assets/design/pedia-ui-design.jpg)
 
-**Pedia Docs** is the official documentation platform for **Pedia UI**,
-providing a seamless developer experience with **AI-powered assistance,
-interactive examples, and a JavaScript Canvas UI builder**. Our goal is to make
-it easy for developers to explore, customize, and integrate Pedia UI components
-into their projects.
+# **Pedia UI – A Modern, Customizable UI Library**  
 
-## Project setup
+**Pedia UI** is an open-source **UI component library** designed to offer a flexible and efficient way to build beautiful, interactive user interfaces. With a focus on **custom animations, AI-assisted documentation, and a built-in JavaScript Canvas tool**, Pedia UI enables developers to create seamless and engaging designs effortlessly.  
 
+## **Core Features**  
+**Custom Animation System** – Smooth, configurable UI animations.  
+**AI-Assisted Documentation** – Smart guidance for arranging and using components.  
+**Flexible Styling** – Use **Tailwind CSS** or plain CSS for full design control.  
+**JavaScript Canvas UI Builder** – Drag & drop components, export clean code.  
+**Lightweight & Performant** – Optimized for speed with minimal overhead.  
+**Modular & Scalable** – Import only what you need for a streamlined workflow.  
+
+## **Installation**  
 ```bash
-# yarn
-yarn install # install dependencies
-
-yarn run dev # start the development server
-
-yarn build # build the application for production
+npm install @pedia-ui/core
+# or
+yarn add @pedia-ui/core
 ```
+
+## **Quick Example**  
+```js
+import { PediaButton } from "@pedia-ui/core";
+
+const App = () => (
+  <PediaButton animation="bounce">Click Me</PediaButton>
+);
+```
+
+## **Contribute**  
+We welcome contributions! Check the [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.  
+
+**Join the community & help shape the future of Pedia UI!**  
