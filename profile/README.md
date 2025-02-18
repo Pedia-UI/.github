@@ -1,3 +1,7 @@
+# Dark-mode
+![Pedia UI Dark Mode](https://github.com/Pedia-UI/Pedia-UI/blob/develop/packages/docs/src/assets/design/pedia-ui-darkmode-design.jpg)
+
+# Light-mode
 ![Pedia UI Dark Mode](https://github.com/Pedia-UI/Pedia-UI/blob/develop/packages/docs/src/assets/design/pedia-ui-design.jpg)
 
 # **Pedia UI – A Modern, Customizable UI Library**  
