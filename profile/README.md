@@ -1,5 +1,3 @@
-# Pedia Docs
-
 ![Pedia UI Dark Mode](https://github.com/Pedia-UI/Pedia-UI/blob/develop/packages/docs/src/assets/design/pedia-ui-design.jpg)
 
 **Pedia Docs** is the official documentation platform for **Pedia UI**,
