@@ -25,14 +25,9 @@ yarn add @pedia-ui/core
 
 ## **Quick Example**  
 ```js
-import { PediaButton } from "@pedia-ui/core";
+import { Button } from "@pedia-ui/core";
 
 const App = () => (
-  <PediaButton animation="bounce">Click Me</PediaButton>
+  <Button animation="bounce">Click Me</Button>
 );
 ```
-
-## **Contribute**  
-We welcome contributions! Check the [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.  
-
-**Join the community & help shape the future of Pedia UI!**  
